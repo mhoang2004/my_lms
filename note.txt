@@ -1,0 +1,2 @@
+axios
+django-cors-headers
